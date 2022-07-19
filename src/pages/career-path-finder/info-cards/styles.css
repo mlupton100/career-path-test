@@ -1,0 +1,6 @@
+.info-cards-root {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    margin-top: -40px;
+}

@@ -1,0 +1,8 @@
+.questionnaire-root {
+    width: 100%;
+    min-height: 450px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px rgba(0,0,0, 0.2);
+    opacity: 1;
+    background-color: rgba(255,255,255, 1);
+}

@@ -1,0 +1,16 @@
+.question-answer-button {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border-width: 3px;
+    border-color: rgba(118,168,244, 1);
+    outline: rgba(118,168,244, 1);
+}
+
+.question-answer-button:focus-visible {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border-color: rgba(118,168,244, 1);
+    outline: rgba(118,168,244, 1);
+}
